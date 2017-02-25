@@ -1,1 +1,1 @@
-# units_cpp
+Basic Units game. Developed while mastering OOP.
